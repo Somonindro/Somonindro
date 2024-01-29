@@ -107,7 +107,7 @@ These are the projects that I made during my Academic years at `BUET` <br>
 <hr>
 
 # GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=somonindro&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)    &nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=somonindro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    &nbsp;
 ![](https://github-readme-stats.vercel.app/api?username=somonindro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)      
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=somonindro&theme=dark&hide_border=false)
