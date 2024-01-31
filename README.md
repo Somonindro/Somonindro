@@ -3,8 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somonindro&label=Profile%20views&color=0e75b6&style=flat" alt="somonindro" /> </p>
-
 - 📖 Right now I'm studying at 4th year in **CSE, BUET**
 
 - 🌱 I’m currently learning **Deep Ant-Colony Optimization**
@@ -22,6 +20,11 @@
 <a href="https://instagram.com/somonindroroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somonindroroy" height="30" width="40" /></a>
 <a href="https://leetcode.com/SomonindroRoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somonindroroy" height="30" width="40" /></a>
 </p><hr>
+
+### Total Profile Visitors 👀
+<img src="https://profile-counter.glitch.me/Somonindro/count.svg" alt="Visitor Count"/>
+
+<hr>
  
 ## My Skills  
 <table>
@@ -107,11 +110,13 @@ These are the projects that I made during my Academic years at `BUET` <br>
 <hr>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somonindro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    &nbsp;
-![](https://github-readme-stats.vercel.app/api?username=somonindro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)      
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=somonindro&theme=dark&hide_border=false)
+<img  src="https://github-readme-stats.vercel.app/api?username=somonindro&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=somonindro&theme=dark&show_icons=true&hide_border=true" width="48%" >
 
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=somonindro&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
+</p>
 
 <hr>
 
