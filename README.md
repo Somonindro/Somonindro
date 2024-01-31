@@ -123,5 +123,5 @@ These are the projects that I made during my Academic years at `BUET` <br>
 ### 🔝 Top Contributed Repo
 <div align="center">
 <img style="margin: 20px" src="https://github-contributor-stats.vercel.app/api?username=somonindro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+<img src="https://i.imgur.com/68mbMBg.gif" align="right" width="300" alt="ful1e5 with halo"/>
 </div>
-<hr>
