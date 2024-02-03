@@ -15,7 +15,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/somonindro-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somonindro-roy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/somonindro-roy-39373b2b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somonindro-roy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/somonindro.roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="somonindro roy" height="30" width="40" /></a>
 <a href="https://instagram.com/somonindroroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somonindroroy" height="30" width="40" /></a>
 <a href="https://leetcode.com/SomonindroRoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somonindroroy" height="30" width="40" /></a>
