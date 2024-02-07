@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 📖 Right now I'm studying at 4th year in **CSE, BUET**
+- 📖 Currently I'm studying at 4th year in **CSE, BUET**
 
 - 🌱 I’m currently learning **Deep Ant-Colony Optimization**
 
